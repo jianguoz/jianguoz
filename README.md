@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 I am a fifth-year PhD student advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc.lab.uic.edu/index.html) Lab. My previous research (before March 2019) focuses on adversarial training and its applications, and currently, I am mainly studying Conversational AI. My mission is to create accurate and smart dialog systems.
-
+<!-- 
 <a>
 
 ![image1](https://github.com/jianguoz/My-Github-Stats/blob/master/generated/overview.svg)
 ![image2](https://github.com/jianguoz/My-Github-Stats/blob/master/generated/languages.svg)
 </a>
-
+ -->
 Personal Website: https://jianguoz.github.io/
 
 <!--
