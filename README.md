@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a fifth-year PhD student advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc.lab.uic.edu/index.html) Lab. My previous research (before March 2019) focuses on adversarial training and its applications, and currently, I am mainly studying Conversational AI. My mission is to create accurate and smart dialog systems.
+I received Ph.D. in the Department of Computer Science at the University of Illinois at Chicago. During my doctoral study, I was advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc.lab.uic.edu/index.html) Lab.
+My previous research (before March 2019) focuses on adversarial training and its applications, and currently, I am mainly studying Conversational AI. My mission is to create accurate and smart dialog systems.
 <!-- 
 <a>
 
