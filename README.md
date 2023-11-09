@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a research scientist at [Salesforce AI Research](https://www.salesforceairesearch.com/). I received Ph.D. in the Department of Computer Science at the University of Illinois at Chicago. During my doctoral study, I was advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc-uic.github.io/index.html) Lab.
-My previous research (before March 2019) focuses on Conversational AI. My mission is to create accurate and smart dialog systems.
+My research focuses on Conversational AI and AI Agent. My mission is to create accurate and smart dialog systems.
 <!-- 
 <a>
 
