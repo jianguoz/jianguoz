@@ -13,7 +13,7 @@ My research focuses on Conversational AI and AI Agent.
 Personal Website: https://jianguoz.github.io/
 
 ## 🎉 News
-- **[03.2024]** [xLAM Repository](https://github.com/SalesforceAIResearch/xLAM) and [xLAM model](https://huggingface.co/collections/Salesforce/xlam-models-65f00e2a0a63bbcd1c2dade4) are released! Try it together with [AgentLite benchmark]([./benchmark/](https://github.com/SalesforceAIResearch/AgentLite/tree/main/benchmark)) or other benchmarks, which is comparable to GPT-4!
+- **[03.2024]** [xLAM Repository](https://github.com/SalesforceAIResearch/xLAM) and [xLAM Model](https://huggingface.co/collections/Salesforce/xlam-models-65f00e2a0a63bbcd1c2dade4) are released! Try it together with [AgentLite benchmark]([./benchmark/](https://github.com/SalesforceAIResearch/AgentLite/tree/main/benchmark)) or other benchmarks, which is comparable to GPT-4!
 - **[02.2024]** Initial Release of AgentOhana and xLAM [paper](https://arxiv.org/abs/2402.15506)!
 
 
