@@ -17,7 +17,7 @@ Personal Website: https://jianguoz.github.io/
 
 - **[03.2024]** [xLAM Repository](https://github.com/SalesforceAIResearch/xLAM) and [xLAM Model](https://huggingface.co/collections/Salesforce/xlam-models-65f00e2a0a63bbcd1c2dade4) are released! Try it together with [AgentLite benchmark](https://github.com/SalesforceAIResearch/AgentLite/tree/main/benchmark) or other benchmarks, which is comparable to GPT-4! See also [the Twitter by Salesforce AI Research VP].(https://x.com/CaimingXiong/status/1769778308659708316)
 - **[02.2024]** Initial Release of AgentOhana and xLAM [paper](https://arxiv.org/abs/2402.15506)!
-- **[12.2023]** DialogStudio [GitHub](https://github.com/salesforce/DialogStudio) has garnered 400 stars. [Huggingface Data](https://huggingface.co/datasets/Salesforce/dialogstudio) has more than 55k downloads and was previously ranked among the Top-10 trending datasets. See also the [Paper](https://arxiv.org/pdf/2307.10172).
+- **[12.2023]** DialogStudio [GitHub](https://github.com/salesforce/DialogStudio) has garnered 400 stars. [Huggingface Data](https://huggingface.co/datasets/Salesforce/dialogstudio) has more than 55k downloads and was previously ranked among the Top-10 trending datasets. See also the [Paper](https://arxiv.org/pdf/2307.10172) and [Twitter](https://x.com/Yampeleg/status/1683012386381242368).
 
 
 <!--
