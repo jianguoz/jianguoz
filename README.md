@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior research scientist at [Salesforce AI Research](https://www.salesforceairesearch.com/). I received Ph.D. in the Department of Computer Science at the University of Illinois at Chicago. During my doctoral study, I was advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc-uic.github.io/index.html) Lab.
+I am a Senior Research Scientist at [Salesforce AI Research](https://www.salesforceairesearch.com/). I received Ph.D. in the Department of Computer Science at the University of Illinois at Chicago. During my doctoral study, I was advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) in the [BDSC](https://bdsc-uic.github.io/index.html) Lab.
 
 My research focuses on Conversational AI and AI Agent. 
 <!-- 
