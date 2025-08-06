@@ -13,6 +13,7 @@ My research focuses on Conversational AI and AI Agent.
 Personal Website: https://jianguoz.github.io/
 
 ## 🎉 News
+- ** [08-05.2025]** 💫 [ActionStudio](https://github.com/SalesforceAIResearch/xLAM/tree/main/actionstudio) has been updated with new features, improved training configuration tracking, and general code enhancements!
 - **[04-15.2025]** 🏆🏆🏆 xLAM-2-fc-r achieves Top-1 performance on the latest [BFCL Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)!
 - **[04-15.2025]**: 🚀🚀🚀 ActionStudio is now open-source! Checkout our [paper](https://arxiv.org/abs/2503.22673) and [xLAM code](ActionStudio_README.md) for full details.
 - **[04-15.2025]**: 📢📢📢 APIGen-MT is now open-source! Learn more in our [paper](https://arxiv.org/pdf/2504.03601) and [Project Website](https://apigen-mt.github.io/)!
